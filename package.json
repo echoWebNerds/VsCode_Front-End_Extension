@@ -10,6 +10,21 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "xabikos.JavaScriptSnippets",
+    "HTMLHint.vscode-htmlhint",
+    "pranaygp.vscode-css-peek",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "ms-vscode-remote.remote-ssh",
+    "abusaidm.html-snippets",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion",
+    "MS-vsliveshare.vsliveshare",
+    "dracula-theme.theme-dracula",
+    "alefragnani.project-manager",
+    "jock.svg",
+    "ChakrounAnas.turbo-console-log",
+    "bradlc.vscode-tailwindcss"
   ]
 }
