@@ -6,8 +6,21 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/echoWebNerds/VsCode_Front-End"
+  },
+  "homepage": "https://github.com/echoWebNerds/VsCode_Front-End",
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "Front End",
+    "Javascript",
+    "React",
+    "Theme",
+    "Formatting",
+    "Extension Pack"
   ],
   "extensionPack": [ 
     "esbenp.prettier-vscode",
