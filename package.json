@@ -25,6 +25,20 @@
     "alefragnani.project-manager",
     "jock.svg",
     "ChakrounAnas.turbo-console-log",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "oderwat.indent-rainbow",
+    "ritwickdey.LiveServer",
+    "Codeium.codeium",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "kisstkondoros.vscode-gutter-preview",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker",
+    "aaron-bond.better-comments",
+    "BracketPairColorDLW.bracket-pair-color-dlw",
+    "anseki.vscode-color",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "dbaeumer.vscode-eslint",
+    "figma.figma-vscode-extension"
   ]
 }
