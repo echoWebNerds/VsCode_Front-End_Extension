@@ -20,7 +20,27 @@
     "React",
     "Theme",
     "Formatting",
-    "Extension Pack"
+    "Extension Pack",
+    "prettier",
+    "git",
+    "github",
+    "css",
+    "html",
+    "htmlHint",
+    "LiveShare",
+    "svg",
+    "projectManger",
+    "theme",
+    "Codeium",
+    "Figma",
+    "tailwindcss",
+    "LiveServer",
+    "AutoTag",
+    "eslint",
+    "BracketPair",
+    "Intelli code",
+    "Better Comments"
+
   ],
   "extensionPack": [ 
     "esbenp.prettier-vscode",
