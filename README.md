@@ -1,7 +1,12 @@
 # front-end-extension-gold-pack README
 
 ## Working with Markdown
+![alt](./image/2.png)
+:::image type="complex" source="./image/3.png" alt-text="test":::
 
+:::image-end:::
+:::image type="content" source="./image/4.png" alt-text="test2":::
+[#1](https://github.com/echoWebNerds/VsCode_Front-End/issues/1)
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
