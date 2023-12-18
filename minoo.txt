@@ -1,0 +1,50 @@
+Front-End Extension Gold Pack
+
+A Complete and Powerful Package for Front-End Developers
+
+Front-End Extension Gold Pack is a complete and powerful Package of VS Code extensions designed for front-end developers. This Package includes a collection of essential and useful extensions for coding, formatting, project management, and more.
+**************************************************************************************
+=====>> این قسمت و میتونیم ننویسیم <<========
+
+Extensions included in this Package are:
+
+Prettier for formatting code in a consistent and beautiful way
+JavaScriptSnippets for quick and easy access to repetitive JavaScript code
+HTMLHint for checking HTML code and suggesting corrections
+CSS Peek for viewing the CSS code underneath any HTML element
+GitLens for exploring code history and changes made
+Import Cost for estimating the cost of importing npm packages
+Remote SSH for accessing your code via SSH
+HTML Snippets for quick and easy access to repetitive HTML code
+HTML-CSS for automatic completion of HTML and CSS code
+HTML-CSS Class Completion for automatic completion of HTML and CSS classes
+LiveShare for sharing code in real time with other developers
+Theme-Dracula for beautifying the VS Code workspace
+Project Manager for managing front-end projects
+SVG for working with SVG files
+Turbo Console Log for improving the performance of console output
+Tailwind CSS for using Tailwind CSS in VS Code
+Indent Rainbow for coloring code based on indentation level
+LiveServer for launching a local server for testing code
+Codeium for creating interactive code samples
+Intellicode-API-Usage-Examples for viewing examples of API usage
+Gutter Preview for previewing code changes in the margin
+Code Runner for running JavaScript, CSS, and HTML code
+Code Spell Checker for checking code spelling
+Better Comments for improving the quality and readability of code comments
+Bracket Pair Color DLW for coloring paired brackets
+VSCode-Color for using custom colors in VS Code
+Auto-Close Tag for automatically closing tags
+Auto-Rename Tag for automatically renaming tags
+VSCode-ESLint for linting code using ESLint
+Figma-VSCode-Extension for using Figma in VS Code
+****************************************************************************************
+Front-End Extension Gold Pack is a valuable tool for front-end developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
+
+Some of the benefits of using Front-End Extension Gold Pack include:
+
+Increased productivity: This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.
+Improved code quality: This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.
+Compatibility with the latest technologies: This Package is regularly updated to ensure compatibility with the latest technologies.
+If you are a front-end developer, Front-End Extension Gold Pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
+
