@@ -1,6 +1,6 @@
-# front-end-extension-gold-pack
-### A Complete and Powerful Package for Front-End Developers
-<a href="#English">English</a><span>🔄</span><a href="">pershian</a>
+# 📦 front-end-extension-gold-pack  
+### A Complete and Powerful Package for Front-End Developers 🥇
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="">pershian</a> 
 
 * ![alt](./image/2.png)
 ![alt](./image/3.png)
@@ -44,7 +44,7 @@ Auto-Rename Tag for automatically renaming tags <br>
 VSCode-ESLint for linting code using ESLint <br>
 Figma-VSCode-Extension for using Figma in VS Code <br>
 
-@echoWebNerds
-@mohmmadView
-@Zarpoosh
+[@echoWebNerds](https://github.com/echoWebNerds)
+[@mohmmadView](https://github.com/mohmmadView/)
+[@Minoo zarpoosh](https://github.com/Zarpoosh)
 **Enjoy!**
