@@ -1,6 +1,6 @@
 # front-end-extension-gold-pack
 ### A Complete and Powerful Package for Front-End Developers
-<a href="#eng">English</a><span>🔄</span><a href="">pershian</a>
+<a href="#English">English</a><span>🔄</span><a href="">pershian</a>
 
 * ![alt](./image/2.png)
 ![alt](./image/3.png)
