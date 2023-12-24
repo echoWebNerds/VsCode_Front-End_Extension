@@ -48,10 +48,10 @@ Front-End Extension Gold Pack is a valuable tool for front-end developers that c
 
 <h1>Some of the benefits of using Front-End Extension Gold Pack include:</h1>
 
-1- <h2>Increased productivity:</h2> This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.
-2- Improved code quality: This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.
-3- Compatibility with the latest technologies: This Package is regularly updated to ensure compatibility with the latest technologies.
-4- If you are a front-end developer, Front-End Extension Gold Pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
+1- Increased productivity: This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
+2- Improved code quality: This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
+3- Compatibility with the latest technologies: This Package is regularly updated to ensure compatibility with the latest technologies.<br>
+If you are a front-end developer, Front-End Extension Gold Pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
 
 
 
