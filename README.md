@@ -13,13 +13,13 @@
 **<p> Front-End Extension Gold Pack is a complete and powerful Package of VS Code extensions designed for front-end developers. This Package includes a collection of essential and useful extensions for coding, formatting, project management, and more. </p>**
 ### Extensions included in this Package are:
 
-1- [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  for formatting code in a consistent and beautiful way <br>
+[**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  for formatting code in a consistent and beautiful way <br>
 [**JavaScript (ES6) code snippets** ](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)JavaScriptSnippets for quick and easy access to repetitive JavaScript code <br>
 [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) for checking HTML code and suggesting corrections <br>
 [**CSS Peek**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) for viewing the CSS code underneath any HTML element <br>
 [**GitHistory**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) for exploring code history and changes made <br>
 [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) for estimating the cost of importing npm packages <br>
-Remote SSH for accessing your code via SSH <br>
+7- Remote SSH for accessing your code via SSH <br>
 HTML Snippets for quick and easy access to repetitive HTML code <br>
 HTML-CSS for automatic completion of HTML and CSS code <br>
 HTML-CSS Class Completion for automatic completion of HTML and CSS classes <br>
