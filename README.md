@@ -20,14 +20,14 @@
 5- [**GitHistory**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) for exploring code history and changes made <br>
 6- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) for estimating the cost of importing npm packages <br>
 7- [**Remote SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) for accessing your code via SSH <br>
-8- HTML Snippets for quick and easy access to repetitive HTML code <br>
-9- HTML-CSS for automatic completion of HTML and CSS code <br>
-10- HTML-CSS Class Completion for automatic completion of HTML and CSS classes <br>
-11- LiveShare for sharing code in real time with other developers <br>
-12- Theme-Dracula for beautifying the VS Code workspace <br>
-13- Project Manager for managing front-end projects <br>
-14- SVG for working with SVG files <br>
-15- Turbo Console Log for improving the performance of console output <br>
+8- [**HTML Snippets**](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) for quick and easy access to repetitive HTML code <br>
+9- [**HTML-CSS**] for automatic completion of HTML and CSS code <br>
+10- [**HTML-CSS Class Completion**] for automatic completion of HTML and CSS classes <br>
+11- [**LiveShare**] for sharing code in real time with other developers <br>
+12- [**Theme-Dracula**] for beautifying the VS Code workspace <br>
+13- [**Project Manager**] for managing front-end projects <br>
+14- [**SVG**] for working with SVG files <br>
+15- [**Turbo Console Log**] for improving the performance of console output <br>
 16- Tailwind CSS for using Tailwind CSS in VS Code <br>
 17- Indent Rainbow for coloring code based on indentation level <br>
 18- LiveServer for launching a local server for testing code <br>
