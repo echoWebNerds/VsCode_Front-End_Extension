@@ -44,6 +44,7 @@ Front-End Extension Gold Pack is a valuable tool for front-end developers that c
 <h3>2- Improved code quality: </h3>This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
 <h3>3- Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
 If you are a front-end developer, Front-End Extension Gold Pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
+
 ## persian
 
 * ![alt](./image/2.png)
