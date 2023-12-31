@@ -21,28 +21,28 @@
 6- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) for estimating the cost of importing npm packages <br>
 7- [**Remote SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) for accessing your code via SSH <br>
 8- [**HTML Snippets**](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) for quick and easy access to repetitive HTML code <br>
-9- [**HTML-CSS**] for automatic completion of HTML and CSS code <br>
-10- [**HTML-CSS Class Completion**] for automatic completion of HTML and CSS classes <br>
-11- [**LiveShare**] for sharing code in real time with other developers <br>
-12- [**Theme-Dracula**] for beautifying the VS Code workspace <br>
-13- [**Project Manager**] for managing front-end projects <br>
-14- [**SVG**] for working with SVG files <br>
-15- [**Turbo Console Log**] for improving the performance of console output <br>
-16- Tailwind CSS for using Tailwind CSS in VS Code <br>
-17- Indent Rainbow for coloring code based on indentation level <br>
-18- LiveServer for launching a local server for testing code <br>
-19- Codeium for creating interactive code samples <br>
-20- Intellicode-API-Usage-Examples for viewing examples of API usage <br>
-21- Gutter Preview for previewing code changes in the margin <br>
-22- Code Runner for running JavaScript, CSS, and HTML code <br>
-23- Code Spell Checker for checking code spelling <br>
-24- Better Comments for improving the quality and readability of code comments <br>
-25- Bracket Pair Color DLW for coloring paired brackets <br>
-26- VSCode-Color for using custom colors in VS Code <br>
-27- Auto-Close Tag for automatically closing tags <br>
-28- Auto-Rename Tag for automatically renaming tags <br>
-29- VSCode-ESLint for linting code using ESLint <br>
-30- Figma-VSCode-Extension for using Figma in VS Code <br>
+9- [**HTML-CSS**](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion) for automatic completion of HTML and CSS code <br>
+10- [**HTML-CSS Class Completion**](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) for automatic completion of HTML and CSS classes <br>
+11- [**LiveShare**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) for sharing code in real time with other developers <br>
+12- [**Theme-Dracula**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) for beautifying the VS Code workspace <br>
+13- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) for managing front-end projects <br>
+14- [**SVG**](https://marketplace.visualstudio.com/items?itemName=jock.svg) for working with SVG files <br>
+15- [**Turbo Console Log**](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) for improving the performance of console output <br>
+16- [**Tailwind CSS**](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) for using Tailwind CSS in VS Code <br>
+17- [**Indent Rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) for coloring code based on indentation level <br>
+18- [**LiveServer**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for launching a local server for testing code <br>
+19- [**Codeium**](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) for creating interactive code samples <br>
+20- [**Intellicode-API-Usage-Examples**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples) for viewing examples of API usage <br>
+21- [**Gutter Preview**](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) for previewing code changes in the margin <br>
+22- [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) for running JavaScript, CSS, and HTML code <br>
+23- [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) for checking code spelling <br>
+24- [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) for improving the quality and readability of code comments <br>
+25- [**Bracket Pair Color DLW**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) for coloring paired brackets <br>
+26- [**VSCode-Color**](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color) for using custom colors in VS Code <br>
+27- [**Auto-Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)for automatically closing tags <br>
+28- [**Auto-Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) for automatically renaming tags <br>
+29- [**VSCode-ESLint**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) for linting code using ESLint <br>
+30- [**Figma-VSCode-Extension**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) for using Figma in VS Code <br>
 <br><br>
 Front-End Extension Gold Pack is a valuable tool for front-end developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
 
