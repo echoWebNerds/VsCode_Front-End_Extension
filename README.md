@@ -53,7 +53,7 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 
 ## persian
 
-* ![alt](./image/2.png)
+![alt](./image/2.png)
 ![alt](./image/3.png)
 ![alt](./image/4.png)
 ![alt](./image/5.png)

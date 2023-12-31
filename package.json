@@ -53,6 +53,7 @@
     "esbenp.prettier-vscode",
     "xabikos.JavaScriptSnippets",
     "HTMLHint.vscode-htmlhint",
+    "donjayamanne.githistory",
     "pranaygp.vscode-css-peek",
     "eamodio.gitlens",
     "wix.vscode-import-cost",
