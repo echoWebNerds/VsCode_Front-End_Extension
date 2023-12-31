@@ -59,7 +59,7 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 ![alt](./image/5.png)
 ![alt](./image/6.png)
 ![alt](./image/7.png)
-![8](https://github.com/echoWebNerds/VsCode_Front-End/assets/64944885/70cf3673-32ac-4ac0-9a8b-fab24b68e080)
+![alt](./image/8.png)
 
 [@echoWebNerds](https://github.com/echoWebNerds)
 [@mohmmadView](https://github.com/mohmmadView/)
