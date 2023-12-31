@@ -1,14 +1,3 @@
-# 📦 front-end-extension-gold-pack  
-### A Complete and Powerful Package for Front-End Developers 🥇
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="">pershian</a> 
-
-* ![alt](./image/2.png)
-![alt](./image/3.png)
-![alt](./image/4.png)
-![alt](./image/5.png)
-![alt](./image/6.png)
-![alt](./image/7.png)
-
 ## English
 **<p> Front-End Extension Gold Pack is a complete and powerful Package of VS Code extensions designed for front-end developers. This Package includes a collection of essential and useful extensions for coding, formatting, project management, and more. </p>**
 ### Extensions included in this Package are:
@@ -59,3 +48,15 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 [@mohmmadView](https://github.com/mohmmadView/)
 [@Minoo zarpoosh](https://github.com/Zarpoosh)
 **Enjoy!**
+
+
+# 📦 front-end-extension-gold-pack  
+### A Complete and Powerful Package for Front-End Developers 🥇
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="">pershian</a> 
+
+* ![alt](./image/2.png)
+![alt](./image/3.png)
+![alt](./image/4.png)
+![alt](./image/5.png)
+![alt](./image/6.png)
+![alt](./image/7.png)
