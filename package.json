@@ -2,7 +2,7 @@
   "name": "front-end-extension-gold-pack",
   "displayName": "Front-End Extension Gold Pack",
   "description": "Elevate your frontend development experience with the Frontend Pro Toolkit, a handpicked ensemble of top-tier Visual Studio Code extensions. This carefully curated pack brings together the best tools and utilities, streamlining your workflow and enhancing your capabilities as a frontend developer.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.83.1"
   },"author": {
@@ -57,7 +57,6 @@
     "eamodio.gitlens",
     "wix.vscode-import-cost",
     "ms-vscode-remote.remote-ssh",
-    "abusaidm.html-snippets",
     "ecmel.vscode-html-css",
     "Zignd.html-css-class-completion",
     "MS-vsliveshare.vsliveshare",
@@ -79,6 +78,9 @@
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "dbaeumer.vscode-eslint",
-    "figma.figma-vscode-extension"
+    "figma.figma-vscode-extension",
+    "anbuselvanrocky.bootstrap5-vscode",
+    "burkeholland.simple-react-snippets",
+    "sangelorafael.jsx-html-tags"
   ]
 }
