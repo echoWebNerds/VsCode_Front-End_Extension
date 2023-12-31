@@ -19,7 +19,7 @@
 4- [**CSS Peek**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) for viewing the CSS code underneath any HTML element <br>
 5- [**GitHistory**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) for exploring code history and changes made <br>
 6- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) for estimating the cost of importing npm packages <br>
-7- Remote SSH for accessing your code via SSH <br>
+7- [**Remote SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) for accessing your code via SSH <br>
 8- HTML Snippets for quick and easy access to repetitive HTML code <br>
 9- HTML-CSS for automatic completion of HTML and CSS code <br>
 10- HTML-CSS Class Completion for automatic completion of HTML and CSS classes <br>
