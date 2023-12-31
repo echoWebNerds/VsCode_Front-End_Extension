@@ -1,11 +1,10 @@
 # 📦 front-end-extension-gold-pack  
-# پکیچ  فارسی برای برنامه نویسهای فرانت
+# پکیچ  فارسی برای برنامه نویسهای فرانت 
 ### A Complete and Powerful Package for Front-End Developers 🥇
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a> 
 ## English
-**<p> Front-End Extension Gold Pack is a complete and powerful Package of VS Code extensions designed for front-end developers. This Package includes a collection of essential and useful extensions for coding, formatting, project management, and more. </p>**
-### Extensions included in this Package are:
-
+**<p> Front-End Extension Gold 🥇 Pack 📦 is a complete and powerful  Package of VS Code extensions designed for front-end developers. This Package includes a collection of essential and useful extensions for coding, formatting, project management, and more. </p>**
+### Extensions included in this Package are: 
 1- [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  for formatting code in a consistent and beautiful way <br>
 2- [**JavaScript (ES6) code snippets** ](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)JavaScriptSnippets for quick and easy access to repetitive JavaScript code <br>
 3- [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) for checking HTML code and suggesting corrections <br>
