@@ -40,6 +40,8 @@
 33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) the essential collection of React Snippets and commands. <br>
 34- [**JSX HTML <tags/>**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) Use HTML Tags into JSX <br>
 <br><br>
+35- [**Import Cost <tags/>**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size. <br>
+<br><br>
 Front-End Extension Gold Pack is a valuable tool for front-end developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
 
 <h1>💻 Some of the benefits of using Front-End Extension Gold Pack include:</h1>
