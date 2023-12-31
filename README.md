@@ -1,3 +1,4 @@
+
 # 📦 front-end-extension-gold-pack  
 # پکیچ  فارسی برای برنامه نویسهای فرانت 
 ### A Complete and Powerful Package for Front-End Developers 🥇
@@ -58,7 +59,7 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 ![alt](./image/5.png)
 ![alt](./image/6.png)
 ![alt](./image/7.png)
-
+![8](https://github.com/echoWebNerds/VsCode_Front-End/assets/64944885/f2d57a40-cdeb-4e63-9539-00eb5a9459e7)
 [@echoWebNerds](https://github.com/echoWebNerds)
 [@mohmmadView](https://github.com/mohmmadView/)
 [@Minoo zarpoosh](https://github.com/Zarpoosh)
