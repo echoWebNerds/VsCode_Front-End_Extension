@@ -35,10 +35,10 @@
 28- [**Auto-Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) for automatically renaming tags <br>
 29- [**VSCode-ESLint**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) for linting code using ESLint <br>
 30- [**Figma-VSCode-Extension**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) for using Figma in VS Code <br>
-31- [**Image-preview**](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)for automatically closing tags <br>
-32- [**Bootstrap 5**](https://marketplace.visualstudio.com/items?itemName=AnbuselvanRocky.bootstrap5-vscode) for automatically renaming tags <br>
-33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) for linting code using ESLint <br>
-34- [**JSX HTML <tags/>**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) for using Figma in VS Code <br>
+31- [**Image-preview**](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)Shows image preview in the gutter and on hover<br>
+32- [**Bootstrap 5**](https://marketplace.visualstudio.com/items?itemName=AnbuselvanRocky.bootstrap5-vscode) Collection of Bootstrap 5 Snippets that will make your life easier <br>
+33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) the essential collection of React Snippets and commands. <br>
+34- [**JSX HTML <tags/>**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) Use HTML Tags into JSX <br>
 <br><br>
 Front-End Extension Gold Pack is a valuable tool for front-end developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
 
