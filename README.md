@@ -1,5 +1,5 @@
 # 📦 front-end-extension-gold-pack  
-# پکیچ طلایی اکستنشن های فرانت اند 
+# پکیچ  فارسی برای برنامه نویسهای فرانت 
 ### A Complete and Powerful Package for Front-End Developers 🥇
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a> 
 ## English
@@ -12,7 +12,7 @@
 5- [**GitHistory**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) for exploring code history and changes made <br>
 6- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) for estimating the cost of importing npm packages <br>
 7- [**Remote SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) for accessing your code via SSH <br>
-8- [**HTML Snippets**](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) for quick and easy access to repetitive HTML code <br>
+8- [**ES7+ React/Redux/React-Native-snippets**](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) for quick and easy access to repetitive React code <br>
 9- [**HTML-CSS**](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion) for automatic completion of HTML and CSS code <br>
 10- [**HTML-CSS Class Completion**](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) for automatic completion of HTML and CSS classes <br>
 11- [**LiveShare**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) for sharing code in real time with other developers <br>
@@ -35,14 +35,18 @@
 28- [**Auto-Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) for automatically renaming tags <br>
 29- [**VSCode-ESLint**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) for linting code using ESLint <br>
 30- [**Figma-VSCode-Extension**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) for using Figma in VS Code <br>
+31- [**Image-preview**](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)for automatically closing tags <br>
+32- [**Bootstrap 5**](https://marketplace.visualstudio.com/items?itemName=AnbuselvanRocky.bootstrap5-vscode) for automatically renaming tags <br>
+33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) for linting code using ESLint <br>
+34- [**JSX HTML <tags/>**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) for using Figma in VS Code <br>
 <br><br>
 Front-End Extension Gold Pack is a valuable tool for front-end developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
 
 <h1>💻 Some of the benefits of using Front-End Extension Gold Pack include:</h1>
 
-<h3>✅ 1- Increased productivity:</h3> This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
-<h3>✅ 2- Improved code quality: </h3>This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
-<h3>✅ 3- Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
+<h3>1- Increased productivity:</h3> This Package includes a collection of essential and useful extensions that can help developers save time and increase productivity.<br>
+<h3>2- Improved code quality: </h3>This Package includes extensions for formatting, linting, and more that can help developers improve the quality of their code.<br>
+<h3>3- Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
 If you are a front-end developer, Front-End Extension Gold Pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
 
 ## persian
@@ -58,7 +62,3 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 [@mohmmadView](https://github.com/mohmmadView/)
 [@Minoo zarpoosh](https://github.com/Zarpoosh)
 **Enjoy!**
-
-
-
-
