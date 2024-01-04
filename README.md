@@ -1,6 +1,6 @@
 
 # 📦 front-end-extension-gold-pack  
-#  پکیج طلای اکستیشن های فرانت اند     
+#  پکیج طلایی اکستنشن های فرانت اند     
 ### A Complete and Powerful Package for Front-End Developers 🥇
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a> 
 ## English
