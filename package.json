@@ -2,7 +2,7 @@
   "name": "front-end-extension-gold-pack",
   "displayName": "Front-End Extension Gold Pack",
   "description": "Elevate your frontend development experience with the Frontend Pro Toolkit, a handpicked ensemble of top-tier Visual Studio Code extensions. This carefully curated pack brings together the best tools and utilities, streamlining your workflow and enhancing your capabilities as a frontend developer.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "4bde9604-932c-638d-b5d2-db273992f59c",
   "engines": {
     "vscode": "^1.83.1"
