@@ -110,6 +110,9 @@
     "figma.figma-vscode-extension",
     "anbuselvanrocky.bootstrap5-vscode",
     "burkeholland.simple-react-snippets",
-    "sangelorafael.jsx-html-tags"
+    "sangelorafael.jsx-html-tags",
+    "alefragnani.Bookmarks",
+    "steoates.autoimport",
+    "funkyremi.vscode-google-translate"
   ]
 }

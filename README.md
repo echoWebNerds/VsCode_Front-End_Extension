@@ -47,6 +47,10 @@
 33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) the essential collection of React Snippets and commands. <br>
 34- [**JSX HTML**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) Use HTML Tags into JSX <br>
 35- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size. <br>
+36- [**Vscode Google Translate**](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate) Use HTML Tags into JSX <br>
+37- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX. <br>
+38- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) Bookmarks is an extension created for Visual Studio Code. If you find it useful, please consider supporting it. <br>
+
 <br><br>
 Front-End Extension Gold Pack is a valuable tool for front-end developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
 
