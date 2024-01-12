@@ -1,12 +1,18 @@
+# 📦 front-end-extension-gold-pack
 
-# 📦 front-end-extension-gold-pack  
-#  پکیج طلایی اکستنشن های فرانت اند     
+# پکیج طلایی اکستنشن های فرانت اند
+
 ### A Complete and Powerful Package for Front-End Developers 🥇
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a> 
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a>
+
 ## English
-**<p> Front-End Extension Gold 🥇 Pack 📦 is a complete and powerful  Package of VS Code extensions designed for front-end developers. This Package includes a collection of essential and useful extensions for coding, formatting, project management, and more. </p>**
-### Extensions included in this Package are: 
-1- [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  for formatting code in a consistent and beautiful way <br>
+
+**<p> Front-End Extension Gold 🥇 Pack 📦 is a complete and powerful Package of VS Code extensions designed for front-end developers. This Package includes a collection of essential and useful extensions for coding, formatting, project management, and more. </p>**
+
+### Extensions included in this Package are:
+
+1- [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) for formatting code in a consistent and beautiful way <br>
 2- [**JavaScript (ES6) code snippets** ](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)JavaScriptSnippets for quick and easy access to repetitive JavaScript code <br>
 3- [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) for checking HTML code and suggesting corrections <br>
 4- [**CSS Peek**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) for viewing the CSS code underneath any HTML element <br>
@@ -61,7 +67,14 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 ![alt](./image/7.png)
 ![alt](./image/8.png)
 
+<h1>Have a question?</h1>
+
 [@echoWebNerds](https://github.com/echoWebNerds)
 [@mohmmadView](https://github.com/mohmmadView/)
-[@Minoo zarpoosh](https://github.com/Zarpoosh)
+[@Minoo Zarpoosh](https://github.com/Zarpoosh)
 **Enjoy!**
+
+
+<h1>License<h1>
+<hr>
+<a href="https://github.com/echoWebNerds/VsCode_Front-End/blob/master/LICENSE">GNU General Public License v3.0</a>
