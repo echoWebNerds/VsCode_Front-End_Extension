@@ -1,6 +1,6 @@
 # 📦 front-end-extension-gold-pack
 
-# پکیج طلایی اکستنشن های فرانت اند
+# 📦 پکیج طلایی اکستنشن های فرانت اند
 
 ### A Complete and Powerful Package for Front-End Developers 🥇
 
@@ -63,7 +63,7 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 <hr>
 <h3>Have a question ❓</h3>
 
-Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/vscode-java/discussions), File a bug in [GitHub Issues](https://github.com/echoWebNerds/VsCode_Front-End/issues), If you have a new extension in mind that is not in the list, introduce it so that we can add it in the new update , Chat with us on Linkedin [Minoo Zarpoosh](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a), [Mohammad Rahgoshayi](linkedin.com/in/mohammad-rahgoshahi-b3654325a) with other feedback.
+Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/vscode-java/discussions), File a bug in [GitHub Issues](https://github.com/echoWebNerds/VsCode_Front-End/issues), If you have a new extension in mind that is not in the list, introduce it so that we can add it in the new update , Chat with us on Linkedin [Minoo Zarpoosh](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a), [Mohammad Rahgoshayi](linkedin.com/in/mohammad-rahgoshahi-b3654325a) with other feedback. 
 
 [@echoWebNerds](https://github.com/echoWebNerds)
 [@mohmmadView](https://github.com/mohmmadView/)
