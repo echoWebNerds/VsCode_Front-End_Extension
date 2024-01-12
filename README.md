@@ -77,4 +77,4 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 
 <h3>License<h3>
 
-[**GNU General Public License v3.0**](https://github.com/echoWebNerds/VsCode_Front-End/blob/master/LICENSE)
+[GNU General Public License v3.0](https://github.com/echoWebNerds/VsCode_Front-End/blob/master/LICENSE)
