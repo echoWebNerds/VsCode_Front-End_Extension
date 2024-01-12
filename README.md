@@ -57,15 +57,6 @@ Front-End Extension Gold Pack is a valuable tool for front-end developers that c
 <h3>3- Compatibility with the latest technologies: </h3>This Package is regularly updated to ensure compatibility with the latest technologies.<br>
 If you are a front-end developer, Front-End Extension Gold Pack is a valuable tool for you. This Package can help you code faster, easier, and with better quality.
 
-## persian
-
-![alt](./image/2.png)
-![alt](./image/3.png)
-![alt](./image/4.png)
-![alt](./image/5.png)
-![alt](./image/6.png)
-![alt](./image/7.png)
-![alt](./image/8.png)
 
 <h3>Have a question?</h3>
 
@@ -80,3 +71,16 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 <h3>License<h3>
 
 [GNU General Public License v3.0](https://github.com/echoWebNerds/VsCode_Front-End/blob/master/LICENSE)
+
+
+
+## persian
+
+![alt](./image/2.png)
+![alt](./image/3.png)
+![alt](./image/4.png)
+![alt](./image/5.png)
+![alt](./image/6.png)
+![alt](./image/7.png)
+![alt](./image/8.png)
+
