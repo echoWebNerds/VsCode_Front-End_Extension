@@ -67,7 +67,7 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 ![alt](./image/7.png)
 ![alt](./image/8.png)
 
-<h1>Have a question?</h1>
+<h3>Have a question?</h3>
 
 [@echoWebNerds](https://github.com/echoWebNerds)
 [@mohmmadView](https://github.com/mohmmadView/)
@@ -75,6 +75,5 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 **Enjoy!**
 
 
-<h1>License<h1>
-<hr>
-<a href="https://github.com/echoWebNerds/VsCode_Front-End/blob/master/LICENSE">GNU General Public License v3.0</a>
+<h3>License<h3>
+[**GNU General Public License v3.0**](https://github.com/echoWebNerds/VsCode_Front-End/blob/master/LICENSE)
