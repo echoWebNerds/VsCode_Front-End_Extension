@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/echoWebNerds/VsCode_Front-End"
+    "url": "https://github.com/echoWebNerds/VsCode_Front-End_Extension"
   },
-  "homepage": "https://github.com/echoWebNerds/VsCode_Front-End",
+  "homepage": "https://github.com/echoWebNerds/VsCode_Front-End_Extension",
   "categories": [
     "Extension Packs"
   ],
