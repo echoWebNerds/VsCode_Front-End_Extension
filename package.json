@@ -115,5 +115,8 @@
     "alefragnani.Bookmarks",
     "steoates.autoimport",
     ""
-  ]
+  ],
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
 }
