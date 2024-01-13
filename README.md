@@ -17,7 +17,7 @@
 3- [**HTMLHint**](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint) for checking HTML code and suggesting corrections <br>
 4- [**CSS Peek**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) for viewing the CSS code underneath any HTML element <br>
 5- [**GitHistory**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) for exploring code history and changes made <br>
-6- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) for estimating the cost of importing npm packages <br>
+6- [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) for estimating the cost of importing npm packages <br>
 7- [**Remote SSH**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) for accessing your code via SSH <br>
 8- [**ES7+ React/Redux/React-Native-snippets**](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) for quick and easy access to repetitive React code <br>
 9- [**HTML-CSS**](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion) for automatic completion of HTML and CSS code <br>
@@ -47,9 +47,11 @@
 33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) the essential collection of React Snippets and commands. <br>
 34- [**JSX HTML**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) Use HTML Tags into JSX <br>
 35- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size. <br>
-36- [**Vscode Google Translate**](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate) Use HTML Tags into JSX <br>
-37- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX. <br>
-38- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) Bookmarks is an extension created for Visual Studio Code. If you find it useful, please consider supporting it. <br>
+36- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX. <br>
+37- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) Bookmarks is an extension created for Visual Studio Code. If you find it useful, please consider supporting it. <br>
+38- [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) Offers experimental debugging features for Node.js, Chrome, Edge, WebView2, and VS Code extensions. Use it for cutting-edge capabilities or potential fixes. <br>
+39- [**Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) No longer needed as the built-in JavaScript Debugger now covers its functionality. <br>
+40- [**npm Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) npm Intellisense: Improves code completion and documentation for npm modules. It's active and recommended. <br>
 
 <br><br>
 Front-End Extension Gold Pack is a valuable tool for front-end developers that can help them increase productivity and improve code quality. This Package is available for free in the VS Code Marketplace.
