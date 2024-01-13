@@ -50,7 +50,7 @@
 36- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX. <br>
 37- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) Bookmarks is an extension created for Visual Studio Code. If you find it useful, please consider supporting it. <br>
 38- [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) Offers experimental debugging features for Node.js, Chrome, Edge, WebView2, and VS Code extensions. Use it for cutting-edge capabilities or potential fixes. <br>
-39- [**Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) No longer needed as the built-in JavaScript Debugger now covers its functionality. <br>
+39- [**jest**](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) jest extends Jest's magic to VS Code, making testing a breeze. <br>
 40- [**npm Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) npm Intellisense: Improves code completion and documentation for npm modules. It's active and recommended. <br>
 
 <br><br>
