@@ -126,12 +126,12 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 32- [**Bootstrap 5**](https://marketplace.visualstudio.com/items?itemName=AnbuselvanRocky.bootstrap5-vscode) <p dir="rtl">اسکریپت‌ها و مستندات Bootstrap 5 را برای Visual Studio Code فراهم می‌کند. Bootstrap یک چارچوب CSS محبوب برای ساخت صفحات وب واکنش‌گرا است.</p>
 33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) <p dir="rtl"> مجموعه‌ای از اسکریپت‌های React ساده را برای Visual Studio Code فراهم می‌کند. React یک کتابخانه JavaScript برای ساخت رابط‌های کاربری است.</p>
 34- [**JSX HTML**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) <p dir="rtl">برجسته‌سازی نحو و قوانین تورفتگی را برای JSX، یک گسترش نحوی برای JavaScript که به شما امکان می‌دهد عناصر HTML را در کد JavaScript خود جاسازی کنید، اضافه می‌کند.</p>
-35- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) <p dir="rtl"></p>
-36- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) <p dir="rtl"></p>
-37- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<p dir="rtl"></p>
-38- [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) <p dir="rtl"></p>
-39- [**jest**](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) <p dir="rtl"></p>
-40- [**npm Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) <p dir="rtl"></p>
+35- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) <p dir="rtl">هزینه واردات ماژول‌ها را در کد JavaScript شما تخمین می‌زند. این کار می‌تواند به شناسایی و بهینه‌سازی واردات کد کمک کند.</p>
+36- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) <p dir="rtl"> ماژول‌ها را به‌طور خودکار وارد می‌کند زمانی که از آنها در کد JavaScript خود استفاده می‌کنید. این کار می‌تواند در هنگام نوشتن کد، وقت و تلاش شما را ذخیره کند.</p>
+37- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<p dir="rtl"> امکان ایجاد bookmarks در کد شما را فراهم می‌کند. Bookmarks می‌توانند برای پرش سریع به مکان‌های خاص در کد شما مفید باشند.</p>
+38- [**JavaScript Debugger (Nightly)**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) <p dir="rtl"> یک اشکال‌زدای JavaScript برای Visual Studio Code فراهم می‌کند. اشکال‌زدا به شما امکان می‌دهد کد خود را گام به گام طی کنید، نقاط عطف تنظیم کنید و متغیرها را بررسی کنید.</p>
+39- [**jest**](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) <p dir="rtl"> یک چارچوب آزمایش JavaScript، را برای Visual Studio Code فراهم می‌کند. Jest یک ابزار محبوب برای آزمایش کد JavaScript است.</p>
+40- [**npm Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) <p dir="rtl">پشتیبانی IntelliSense را برای بسته‌های npm فراهم می‌کند. IntelliSense می‌تواند به شما کمک کند تا بسته‌ها را پیدا و انتخاب کنید و همچنین می‌تواند اطلاعات مربوط به وابستگی‌های بسته را نمایش دهد.</p>
 
 <br><br>
 
