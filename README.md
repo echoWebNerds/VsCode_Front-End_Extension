@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./img/logo2.png">
+<img src="./img/logo3.png">
 
 # 📦 front-end-extension-gold-pack
 
