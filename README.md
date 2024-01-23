@@ -121,11 +121,11 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 27- [**Auto-Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)<p dir="rtl"> برچسب‌های پایانی مطابق با برچسب‌های HTML و XML را به‌طور خودکار وارد می‌کند. این کار می‌تواند در هنگام نوشتن کد نشانه‌گذاری، وقت و تلاش شما را ذخیره کند.</p>
 28- [**Auto-Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) <p dir="rtl">هنگام تغییر نام یک برچسب، برچسب‌های مطابق را به‌طور خودکار تغییر نام می‌دهد. این کار می‌تواند به حفظ یکپارچگی و خوانایی کد شما کمک کند.</p>
 29- [**VSCode-ESLint**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) <p dir="rtl"> یک ابزار linting JavaScript، را در Visual Studio Code ادغام می‌کند. ESLint به شما کمک می‌کند تا خطاها را شناسایی و کیفیت کد JavaScript خود را بهبود ببخشید.</p>
-30- [**Figma-VSCode-Extension**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) <p dir="rtl"></p>
-31- [**Image-preview**](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)<p dir="rtl"></p>
-32- [**Bootstrap 5**](https://marketplace.visualstudio.com/items?itemName=AnbuselvanRocky.bootstrap5-vscode) <p dir="rtl"></p>
-33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) <p dir="rtl"></p>
-34- [**JSX HTML**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) <p dir="rtl"></p>
+30- [**Figma-VSCode-Extension**](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension) <p dir="rtl"> یک ابزار طراحی محبوب، متصل می‌کند. به شما امکان می‌دهد فایل‌های Figma را در ویرایشگر خود پیش‌نمایش کنید و مستقیماً با آنها تعامل داشته باشید.</p>
+31- [**Image-preview**](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)<p dir="rtl"> تصاویر را در حاشیه ویرایشگر شما نمایش می‌دهد. این کار می‌تواند برای پیش‌نمایش سریع تصاویر بدون نیاز به باز کردن آنها در پنجره جداگانه مفید باشد.</p>
+32- [**Bootstrap 5**](https://marketplace.visualstudio.com/items?itemName=AnbuselvanRocky.bootstrap5-vscode) <p dir="rtl">اسکریپت‌ها و مستندات Bootstrap 5 را برای Visual Studio Code فراهم می‌کند. Bootstrap یک چارچوب CSS محبوب برای ساخت صفحات وب واکنش‌گرا است.</p>
+33- [**Simple React Snippets**](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) <p dir="rtl"> مجموعه‌ای از اسکریپت‌های React ساده را برای Visual Studio Code فراهم می‌کند. React یک کتابخانه JavaScript برای ساخت رابط‌های کاربری است.</p>
+34- [**JSX HTML**](https://marketplace.visualstudio.com/items?itemName=angelorafael.jsx-html-tags) <p dir="rtl">برجسته‌سازی نحو و قوانین تورفتگی را برای JSX، یک گسترش نحوی برای JavaScript که به شما امکان می‌دهد عناصر HTML را در کد JavaScript خود جاسازی کنید، اضافه می‌کند.</p>
 35- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) <p dir="rtl"></p>
 36- [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) <p dir="rtl"></p>
 37- [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<p dir="rtl"></p>
