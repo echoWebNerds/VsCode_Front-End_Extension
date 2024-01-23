@@ -1,3 +1,6 @@
+<div align="center">
+<img src="./img/logo2.png">
+
 # 📦 front-end-extension-gold-pack
 
 # 📦 پکیج طلایی اکستنشن های فرانت اند
@@ -5,6 +8,11 @@
 ### A Complete and Powerful Package for Front-End Developers 🥇
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <a href="#English">English</a> 🇮🇷 <a href="#persian">persian</a>
+<br><br>
+[![License: GPL v3.0](https://img.shields.io/badge/EchoWebNerds-Group-red.svg?logo=github&logoColor=white)](https://github.com/echoWebNerds/VsCode_Front-End_Extension)
+[![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3.0-green.svg?logo=git&logoColor=green)](https://github.com/echoWebNerds/VsCode_Front-End_Extension/blob/master/LICENSE)
+[![License: GPL v3.0](https://img.shields.io/badge/VsCode-Frontend.Extension.goldpack-blue.svg?logo=visualstudiocode&logoColor=blue)](https://marketplace.visualstudio.com/items?itemName=4bde9604-932c-638d-b5d2-db273992f59c.front-end-extension-gold-pack)
+</div>
 
 ## English
 
@@ -71,8 +79,8 @@ If you are a front-end developer, Front-End Extension Gold Pack is a valuable to
 
 Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/vscode-java/discussions), File a bug in [GitHub Issues](https://github.com/echoWebNerds/VsCode_Front-End/issues), If you have a new extension in mind that is not in the list, introduce it so that we can add it in the new update , Chat with us on Linkedin [Minoo Zarpoosh](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a), [Mohammad Rahgoshayi](linkedin.com/in/mohammad-rahgoshahi-b3654325a) with other feedback. 
 
-[@echoWebNerds](https://github.com/echoWebNerds)
-[@mohmmadView](https://github.com/mohmmadView/)
+[@EchoWebNerds](https://github.com/echoWebNerds) /
+[@Mohammad Rahgoshayi](https://github.com/mohmmadView/) /
 [@Minoo Zarpoosh](https://github.com/Zarpoosh)
 **Enjoy!**
 
@@ -85,7 +93,7 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 
 
 
-## persian
+<!-- ## persian
 
 ![alt](./image/2.png)
 ![alt](./image/3.png)
@@ -94,4 +102,4 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 ![alt](./image/6.png)
 ![alt](./image/7.png)
 ![alt](./image/8.png)
-
+ -->
