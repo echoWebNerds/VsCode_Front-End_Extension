@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./img/logo3.png">
+<img src="./image/logo3.png">
 
 # 📦 front-end-extension-gold-pack
 
@@ -147,4 +147,4 @@ Start a discussion on [GitHub Discussions](https://github.com/redhat-developer/v
 <hr>
 <h3 dir='rtl'>سوالی دارید؟</h3>
 
-اگربه باگ یا ایرادی برخوردید خوشحال میشویم با ما به [اشراک بگذارید](https://github.com/echoWebNerds/VsCode-Python-Extensions/issues) تا در اولین فرصت آن را برطرف کنیم. افزونه جدیدی در نظر دارید که در لیست نیست، آن را معرفی کنید تا در آپدیت جدید اضافه کنیم، با ما در لینکدین [مینو زرپوش](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a) ,[ محمد رهگشایی](linkedin.com/in/mohammad-rahgoshahi-b3654325a) در ارتباط باشید.
+اگربه باگ یا ایرادی برخوردید خوشحال میشویم با ما به [اشتراک بگذارید](https://github.com/echoWebNerds/VsCode-Python-Extensions/issues) تا در اولین فرصت آن را برطرف کنیم. افزونه جدیدی در نظر دارید که در لیست نیست، آن را معرفی کنید تا در آپدیت جدید اضافه کنیم، با ما در لینکدین [مینو زرپوش](https://www.linkedin.com/in/minoo-zarpoosh-8ab60b25a) ,[ محمد رهگشایی](linkedin.com/in/mohammad-rahgoshahi-b3654325a) در ارتباط باشید.
